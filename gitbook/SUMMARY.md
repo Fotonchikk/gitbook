@@ -41,3 +41,4 @@
 ***
 
 * [Истощение эго](istoshenie-ego.md)
+* [Проактивная и ретроактивная интерференция](proaktivnaya-i-retroaktivnaya-interferenciya.md)
