@@ -44,3 +44,4 @@
 * [Проактивная и ретроактивная интерференция](proaktivnaya-i-retroaktivnaya-interferenciya.md)
 * [Беспорядок в сознании: психическая энтропия](besporyadok-v-soznanii-psikhicheskaya-entropiya.md)
 * [Упорядоченное сознание: состояние потока](uporyadochennoe-soznanie-sostoyanie-potoka.md)
+* [Метод созерцания точки](metod-sozercaniya-tochki.md)
